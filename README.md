@@ -49,6 +49,8 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 ### Data Modeling
 After inspecting the CSVs, create an ERD using Quick Database Diagrams
+![image](https://github.com/ShubhangiBidkar/sql-challenge/assets/38162670/858f5d88-0945-47dd-a562-5f2dafcc5811)
+
 
 ### Data Engineering
 
@@ -63,4 +65,11 @@ Can be found in employee-query.sql file in EmployeeSQL folder.
 In a Jupyter Notebook, import the SQL database into Pandas and create an engine via SQLalchemy to read the tables and create the following graphs:
 
 A histogram to visualize the most common salary ranges for employees.
+
+![image](https://github.com/ShubhangiBidkar/sql-challenge/assets/38162670/88ff41a0-8f92-4b87-a9f0-728baabed8eb)
+
+
+
 A bar chart of average salary by title.
+
+![image](https://github.com/ShubhangiBidkar/sql-challenge/assets/38162670/f5af1065-8414-4b5f-b691-f2d9d1f9ff5a)
